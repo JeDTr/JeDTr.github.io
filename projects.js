@@ -63,5 +63,6 @@ window.PROJECTS = [
     status: "archived",
     year: 2026,
     cover: { image: "assets/giavanghue.svg" },
+    featured: true,
   },
 ];

@@ -130,7 +130,7 @@ h2 { font-size: 26px; letter-spacing: -0.02em; margin: 0; }
 
 /* Cards */
 .featured { display: grid; gap: 24px; }
-.grid { display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); margin-top: 24px; }
+.grid { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin-top: 24px; }
 .grid:empty { display: none; }
 
 .card {
