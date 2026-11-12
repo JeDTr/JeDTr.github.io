@@ -50,4 +50,18 @@ window.PROJECTS = [
     cover: { image: "assets/universe.svg" },
     featured: true,
   },
+  {
+    name: "Giá Vàng Huế",
+    url: "https://giavanghue.com/",
+    tagline: "Theo dõi giá vàng real-time tại Huế, so sánh giữa các thương hiệu lớn.",
+    details: [
+      "Giá mua / bán từ Duy Mong, Rồng Vàng, SJC, PNJ",
+      "So sánh để tìm nơi có giá tốt nhất, kèm biểu đồ biến động",
+      "Dự án đã dừng cập nhật dữ liệu",
+    ],
+    tags: ["TypeScript", "Real-time", "Tài chính"],
+    status: "archived",
+    year: 2026,
+    cover: { image: "assets/giavanghue.svg" },
+  },
 ];
